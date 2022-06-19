@@ -4,41 +4,41 @@
 .idea/
 *.psd
 
-socioboard-api/node_modules/
-socioboard-api/publisher/public/images/
-socioboard-api/feeds/public/giphy/
-socioboard-api/publisher/public/videos/
-socioboard-api/publisher/public/thumbnails/
-socioboard-api/feeds/public/flickr/
-socioboard-api/feeds/public/imgur/
-socioboard-api/feeds/public/pixabay/
+api/node_modules/
+api/publisher/public/images/
+api/feeds/public/giphy/
+api/publisher/public/videos/
+api/publisher/public/thumbnails/
+api/feeds/public/flickr/
+api/feeds/public/imgur/
+api/feeds/public/pixabay/
 
-socioboard-api/user/node_modules/
-socioboard-api/library/node_modules/
-socioboard-api/feeds/node_modules/
-socioboard-api/publish/node_modules/
-socioboard-api/notification/node_modules/
+api/user/node_modules/
+api/library/node_modules/
+api/feeds/node_modules/
+api/publish/node_modules/
+api/notification/node_modules/
 
-socioboard-api/user/public/logs/
-socioboard-api/publish/public/logs/
-socioboard-api/feeds/public/logs/
-socioboard-api/notification/public/logs/
+api/user/public/logs/
+api/publish/public/logs/
+api/feeds/public/logs/
+api/notification/public/logs/
 
-socioboard-api/feeds/public/flickr/
-socioboard-api/feeds/public/giphy/
-socioboard-api/feeds/public/imgur/
-socioboard-api/feeds/public/pixabay/
+api/feeds/public/flickr/
+api/feeds/public/giphy/
+api/feeds/public/imgur/
+api/feeds/public/pixabay/
 
-socioboard-api/publish/public/images/
-socioboard-api/publish/public/thumbnails/
-socioboard-api/publish/public/videos/
+api/publish/public/images/
+api/publish/public/thumbnails/
+api/publish/public/videos/
 
-socioboard-api/user/coverage/
-socioboard-api/Chat
+api/user/coverage/
+api/Chat
 
 
-socioboard-web-php/storage/uploadimages/
-socioboard-web-php/storage/uploadvideos/
+web/storage/uploadimages/
+web/storage/uploadvideos/
 
 
 socioboard-web-php.rar
@@ -96,4 +96,4 @@ Thumbs.db
 *.mov
 *.wmv
 
-socioboard-api/Notification/package-lock.json
+api/Notification/package-lock.json

@@ -1,0 +1,6 @@
+# yaml config for smartpub which is derived from SocioBoard 5.0
+
+version: '1.0'
+services:
+  web:
+    build:

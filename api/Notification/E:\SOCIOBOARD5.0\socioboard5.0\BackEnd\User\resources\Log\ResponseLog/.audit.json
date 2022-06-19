@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 3
+    },
+    "auditLog": "E:\\SOCIOBOARD5.0\\socioboard5.0\\BackEnd\\User\\resources\\Log\\ResponseLog/.audit.json",
+    "files": [
+        {
+            "date": 1655638780882,
+            "name": "/Users/spring/codework/infinity/smartpub/api/Notification/resources/Log/ResponseLog/2022-06-19-logs.log",
+            "hash": "d3dbd53cccb82c7093288e2a6ff556b0"
+        }
+    ]
+}
